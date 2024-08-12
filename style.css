@@ -1,0 +1,48 @@
+.total_web{
+	padding-top:5px;
+	padding-left:3px ;
+	padding-right:3px ;
+	margin: 0;
+}
+
+
+
+h1{
+	color: blue;
+	font-size: 40px;
+	font-family: Algerian;
+    text-align: center;
+}
+marquee{
+    color:aliceblue;
+    font-size: 22px;
+	margin-left: -10px;
+	margin-right: -10px;
+	display: inline-block;
+	overflow-x: visible;
+	overflow-y: visible;
+	background-color: black;
+	text-align: center;
+	cursor: none;
+	inset-block-start: revert;
+	mask-type: alpha;
+	text-transform: capitalize;
+}
+hr{
+	margin-left: -10px;
+	margin-right: -10px;
+}
+
+.button{
+	background-color: palegoldenrod;
+	font-family: Showcard Gothic;
+	font-size: 30px;
+	color: red;
+}
+
+input{
+	background-color: black;
+	color: green;
+	font-size: 20px;
+	text-transform: capitalize;
+}
